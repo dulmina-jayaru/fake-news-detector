@@ -5,14 +5,11 @@
 <p id="description">This project is a Fake News Detector app built with Python. It uses machine learning to classify news articles as fake or real. The app provides a simple GUI for users to input news articles and get instant verification.</p>
 
 <h2>🚀 Demo</h2>
-
-
-
-https://github.com/dulmina-jayaru/fake-news-detector/assets/112796306/d1666e42-c241-4246-ab98-5296af97aca7
-
-
   
-  
+
+https://github.com/dulmina-jayaru/fake-news-detector/assets/112796306/f00c21e3-2313-483c-83ce-a5c3097abe55
+
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
